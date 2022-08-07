@@ -16,7 +16,7 @@ export default function Home() {
 				<div className="container mx-auto">
 					<div className="flex flex-wrap">
 						<div className="w-full px-4">
-							<h1 className="text-2xl">Index</h1>
+							<h1 className="text-2xl text-gray-light">Index</h1>
 						</div>
 					</div>
 				</div>
